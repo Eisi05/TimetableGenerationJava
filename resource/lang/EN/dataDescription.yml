@@ -1,0 +1,61 @@
+room.room-type: "The type of the room"
+room.number: "The room number"
+
+class.grade: "The grade of the class"
+class.identifier: "The class identifier following the grade"
+
+teacher.first-name: "The teacher's first name"
+teacher.last-name: "The teacher's last name"
+teacher.short-name: "The abbreviation of the teacher's name"
+teacher.subjects: "A list of subjects the teacher teaches"
+teacher.amount-of-lessons: "The number of lessons a teacher can teach"
+teacher.type: "The type of teacher, defining which grades they can teach"
+
+timetable.class: "The class for the lesson, including grade and identifier"
+timetable.day: "The day of the lesson"
+timetable.lesson: "The time of the lesson"
+timetable.subject: "The subject of the lesson"
+timetable.teacher: "The teacher's abbreviation for the lesson"
+timetable.room.number: "The room number for the lesson"
+timetable.room.type: "The room type for the lesson"
+
+student.first-name: "The student's first name"
+student.last-name: "The student's last name"
+student.class: "The student's class, including grade and identifier"
+student.identifier: "The student's identifier, auto-generated if not provided"
+
+course.name: "The name of the course"
+course.subject: "The subject of the course"
+course.amount-per-week: "The number of course sessions per week"
+course.classes: "A list of classes in the course, with grade\n and identifier"
+course.students: "A list of student identifiers in the course"
+course.teacher: "The teacher's abbreviation for the course"
+course.room: "The room number for the course"
+
+
+room.option.number: "A positive number"
+
+class.option.identifier: "Uppercase letters, typically A, B, C, ..."
+
+teacher.option.first-name: "Letters"
+teacher.option.last-name: "Letters"
+teacher.option.short-name: "Uppercase letters"
+teacher.option.amount-of-lessons: "A positive number"
+
+timetable.option.class: "A class"
+timetable.option.teacher: "A teacher's abbreviation"
+timetable.option.room.number: "A positive number"
+
+student.option.first-name: "Letters"
+student.option.last-name: "Letters"
+student.option.class: "A class"
+student.option.identifier: "A UUID"
+
+course.option.name: "Letters"
+course.option.amount-per-week: "A positive number"
+course.option.classes: "A list of classes in the course, with grade\n and identifier"
+course.option.students: "A list of student identifiers"
+course.option.teacher: "A teacher's abbreviation"
+course.option.room: "A positive number"
+
+create.list: "-> To create a list, use '{0}' as the separator"

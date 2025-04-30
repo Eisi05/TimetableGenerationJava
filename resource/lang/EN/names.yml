@@ -1,0 +1,30 @@
+#TeacherType
+default: "Default"
+advanced: "Advanced"
+
+#GenerateUpdate
+generate-data: "Generate Data"
+application-process: "Running applications process"
+calculating-faga: "Calculating FAGA"
+generate-timetable: "Generating Timetable"
+final-check: "Final Check"
+generate-display: "Generating Display"
+
+#DebugType
+debug.all: "All"
+debug.warning: "Warning"
+debug.error: "Error"
+debug.nothing: "Nothing"
+
+#GTGStrategy
+all-at-once: "All at Once"
+one-after-another: "One after Another"
+one-after-another-advanced: "One after Another Advanced"
+
+#EvaluationFactor
+busy-students: "Busy Students"
+combination-size: "Combination Size"
+leftover-lessons: "Leftover Lessons"
+lesson-amount-error: "Lesson Amount Error"
+order-of-subjects: "Order Of Subjects"
+resource-rarity: "Resource Rarity"

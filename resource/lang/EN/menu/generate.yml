@@ -1,0 +1,20 @@
+already-exists: "Generation already exists!"
+select-data: "Please select a Data pack!"
+
+title.options-overview: "Options Overview"
+title.select-data: "Select Data"
+
+title.log: "Log"
+
+missing.data.title: "Missing Data"
+missing.data.description: "Please move the courses or students\nto a certain class!"
+
+#{0} = Amount of issues
+issues.toast: "Generation contains {0} issue(s)!\nClick to view them."
+issues.title: "Generation issues of {0}"
+issues.text: "Issues"
+
+success: "Successfully created {0}!"
+
+unable.generate.title: "Generation Error"
+unable.generate.description: "Unable to generate Timetable! Check the courses!"

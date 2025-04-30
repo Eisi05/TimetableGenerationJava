@@ -1,0 +1,30 @@
+#TeacherType
+default: "Normal"
+advanced: "Fortgeschritten"
+
+#GenerateUpdate
+generate-data: "Daten Generierung"
+application-process: "Ausführen des Bewerbungsprozesses"
+calculating-faga: "FAGA Berechnung"
+generate-timetable: "Stundenplan Generierung"
+final-check: "Finale Überprüfung"
+generate-display: "Anzeige Generierung"
+
+#DebugType
+debug.all: "Alles"
+debug.warning: "Warnung"
+debug.error: "Fehler"
+debug.nothing: "Nichts"
+
+#GTGStrategy
+all-at-once: "Alles auf Einmal"
+one-after-another: "Eins nach dem Anderen"
+one-after-another-advanced: "Eins nach dem Anderen Fortgeschritten"
+
+#EvaluationFactor
+busy-students: "Beschäftigte Schüler"
+combination-size: "Kombinationsgröße"
+leftover-lessons: "Übrige Stunden"
+lesson-amount-error: "Stundenanzahl Fehler"
+order-of-subjects: "Stundenreihenfolge"
+resource-rarity: "Ressourcenseltenheit"

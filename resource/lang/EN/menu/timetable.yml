@@ -1,0 +1,14 @@
+already-exists: "Timetable already exists!"
+open-new-window: "Open in new window"
+
+#{0} is the amount of files
+load.error.1: "Unable to load 1 timetable!\n(Click to view)"
+load.error.multiple: "Unable to load {0} timetables!\n(Click to view)"
+
+timetable.name: "Timetable Name"
+report.message: "Report Message"
+report.title: "Report"
+
+show.debug: "Debug log"
+show.issues: "Show Issues"
+debug.title: "Debug log of {0}"

@@ -1,0 +1,61 @@
+room.room-type: "Die Art des Raumes"
+room.number: "Die Raumnummer"
+
+class.grade: "Die Stufe der Klasse"
+class.identifier: "Die Klassenkennung nach der Stufe"
+
+teacher.first-name: "Der Vorname des Lehrers"
+teacher.last-name: "Der Nachname des Lehrers"
+teacher.short-name: "Die Abkürzung des Namens des Lehrers"
+teacher.subjects: "Eine Liste der Fächer, die der Lehrer unterrichtet"
+teacher.amount-of-lessons: "Die Anzahl der Unterrichtsstunden, die ein Lehrer unterrichten kann"
+teacher.type: "Der Lehrertyp, der definiert, welche Stufen er\nunterrichten kann"
+
+timetable.class: "Die Klasse für die Unterrichtsstunde, einschließlich Note und Kennung"
+timetable.day: "Der Tag der Unterrichtsstunde"
+timetable.lesson: "Die Unterrichtszeit"
+timetable.subject: "Das Fach der Unterrichtsstunde"
+timetable.teacher: "Die Abkürzung des Lehrers für die Unterrichtsstunde"
+timetable.room.number: "Die Raumnummer für die Unterrichtsstunde"
+timetable.room.type: "Der Raumtyp für die Unterrichtsstunde"
+
+student.first-name: "Der Vorname des Schülers"
+student.last-name: "Der Nachname des Schülers"
+student.class: "Die Klasse des Schülers, einschließlich Stufe und Kennung"
+student.identifier: "Die ID des Schülers, wird automatisch generiert,\nwenn sie nicht angegeben wird"
+
+course.name: "Der Name des Kurses"
+course.subject: "Das Fach des Kurses"
+course.amount-per-week: "Die Anzahl der Kursstunden pro Woche"
+course.classes: "Eine Liste der Klassen im Kurs mit Stufe\n und Kennung"
+course.students: "Eine Liste der Studenten-IDs im Kurs"
+course.teacher: "Die Abkürzung des Lehrers für den Kurs"
+course.room: "Die Raumnummer für den Kurs"
+
+
+room.option.number: "Eine positive Zahl"
+
+class.option.identifier: "Großbuchstaben, typischerweise A, B, C, ..."
+
+teacher.option.first-name: "Buchstaben"
+teacher.option.last-name: "Buchstaben"
+teacher.option.short-name: "Großbuchstaben"
+teacher.option.amount-of-lessons: "Eine positive Zahl"
+
+timetable.option.class: "Eine Klasse"
+timetable.option.teacher: "Eine Abkürzung eines Lehrers"
+timetable.option.room.number: "Eine positive Zahl"
+
+student.option.first-name: "Buchstaben"
+student.option.last-name: "Buchstaben"
+student.option.class: "Eine Klasse"
+student.option.identifier: "Eine UUID"
+
+course.option.name: "Buchstaben"
+course.option.amount-per-week: "Eine positive Zahl"
+course.option.classes: "Eine Liste der Klassen im Kurs mit Stufe\n und Kennung"
+course.option.students: "Eine Liste der Studenten-IDs im Kurs"
+course.option.teacher: "Eine Abkürzung eines Lehrers"
+course.option.room: "Eine positive Zahl"
+
+create.list: "-> Um eine Liste zu erstellen, verwende '{0}' als Trennzeichen"

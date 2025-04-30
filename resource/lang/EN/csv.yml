@@ -1,0 +1,23 @@
+#CSV Operations
+exception.less: "The csv file has not enough columns!\nNeeded: {0}\nProvided: {1}"
+exception.many: "The csv file has too many columns!\nNeeded: {0}\nProvided: {1}"
+exception.wrong: "The csv file has a wrong type!\nColumn: {0}\nNeeded: {1}\nProvided: {2}"
+exception.error: "An error occurred while {0} {1}!"
+
+file.invalid: "Invalid File"
+file.select: "Please select a .csv file"
+
+import.action: "Import CSV"
+importing: "importing"
+import.failed: "Import failed"
+import.success: "Successfully imported"
+
+export.action: "Export CSV"
+exporting: "exporting"
+export.failed: "Export failed"
+export.success: "Successfully exported"
+
+select.constructor: "Select Constructor"
+
+format.title: "CSV-Format"
+format.description: "Shows the available formats for the CSV file"

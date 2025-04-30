@@ -1,0 +1,29 @@
+help.debug.all: "Displays all debug messages. (INFO, WARN, ERROR)"
+help.debug.warning: "Displays debug messages with warn or higher priority. (WARN, ERROR)"
+help.debug.error: "Only displays errors!"
+help.debug.nothing: "Does not display any debug messages."
+
+help.factor.EFBusyStudents: "Evaluates the portion of students that would be taught."
+help.factor.EFCombinationSize: "Evaluates how many courses are in the current combination."
+help.factor.EFLeftoverLessons: "Evaluates combinations that still need to teach a lot of lessons.\nSo it does not happen, that a subject has three lessons over on the last day."
+help.factor.EFLessonAmountError: "Evaluates the difference between the lesson amounts of the courses."
+help.factor.EFOrderOfSubjects: "Rates double lessons and single lessons higher and discourages anything else."
+help.factor.EFResourceRarity: "Evaluates how often a Teacher and the Room in a Course are used.\n 
+                                If they are used often, but free at the moment, a higher value is returned."
+
+help.strategy.GTGSAllAtOnce: "Generates a grade by comparing all possible combinations."
+help.strategy.GTGSOneAfterAnother: "Generates a grade by picking a course and comparing all combinations that include that course."
+help.strategy.GTGSOneAfterAnotherAdvanced: "First picks the 'best' Course based on the factors given.\nIt then searches for all
+                                            Combinations that contain that Course and hands them over to the sub strategy.\nThis 
+                                            sub strategy works normal."
+
+modify.button: "Modify Timetable time"
+title.debug: "Debug Type"
+title.CCEParameter: "Course Combinations\nEvaluations Parameters"
+title.sub.CCEParameter: "Sub Course Combinations\nEvaluations Parameters"
+title.strategy: "Generation Strategy"
+title.sub.strategy: "Sub Generation Strategy"
+title.log: "Log Possible Combinations"
+
+option.on: "On"
+option.off: "Off"

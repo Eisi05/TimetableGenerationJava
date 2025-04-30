@@ -1,0 +1,6 @@
+create-new-room: "Creating new room..."
+enter-room-number: "Enter the room number"
+room.error.exists: "Room number already exists!"
+select-room-type: "Select room type"
+
+room.set-type: "If nothing is provided, 'DEFAULT' is being used"

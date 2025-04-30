@@ -1,0 +1,20 @@
+already-exists: "Generation existiert bereits!"
+select-data: "Bitte wähle einen Datensatz aus!"
+
+title.options-overview: "Optionsübersicht"
+title.select-data: "Verfügbare Datensätze"
+
+title.log: "Protokoll"
+
+missing.data.title: "Fehlender Datensatz"
+missing.data.description: "Bitte verschiebe die Kurse und\nSchüler in eine bestimmte Klasse!"
+
+#{0} = Amount of issues
+issues.toast: "Generation enthält {0} Probleme!\nKlicke, um sie anzuzeigen."
+issues.title: "Generationsprobleme von {0}"
+issues.text: "Probleme"
+
+success: "{0} erfolgreich erstellt!"
+
+unable.generate.title: "Generierungsfehler"
+unable.generate.description: "Ein Stundenplan kann nicht generiert werden! Überprüfe die Kurse!"

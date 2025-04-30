@@ -1,0 +1,6 @@
+create-new-room: "Neuen Raum erstellen…"
+enter-room-number: "Gib die Raumnummer ein"
+room.error.exists: "Raumnummer existiert bereits!"
+select-room-type: "Wähle eine Raumtyp aus"
+
+room.set-type: "Wenn nichts angegeben ist, wird 'DEFAULT' verwendet"

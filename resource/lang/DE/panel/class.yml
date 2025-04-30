@@ -1,0 +1,6 @@
+select-class-number: "Wähle Klassennummer aus"
+too-many-classes: "Zu viele Klassen!"
+class-name: "Klassenname"
+enter-class-name: "Gib den Klassennamen ein"
+
+create.failed: "Es kann keine neue Klasse erstellt werden!"

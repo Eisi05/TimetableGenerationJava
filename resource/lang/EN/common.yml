@@ -1,0 +1,142 @@
+#common
+add: "Add"
+create: "Create"
+delete: "Delete"
+manage: "Manage"
+edit: "Edit"
+clear: "Clear"
+close: "Close"
+start: "Start"
+rename: "Rename"
+copy: "Copy"
+pause: "Pause"
+resume: "Resume"
+cancel: "Cancel"
+undo: "Undo"
+redo: "Redo"
+save: "Save"
+overwrite: "Overwrite"
+filter: "Filter"
+settings: "Settings"
+language: "Language"
+optional: "Optional"
+value: "Value"
+parameters: "Parameters"
+description: "Description"
+numbers-only: "Only numbers are allowed!"
+enter-name: "Enter name"
+project.project: "Project"
+
+name: "Name"
+first-name: "First Name"
+last-name: "Last Name"
+name-abbreviation: "Name Abbreviation"
+type: "Type"
+grade: "Grade"
+subject-type: "Subject type"
+subject: "Subject"
+subjects: "Subjects"
+amount-of-lessons: "Amount of Lessons"
+amount-of-students: "Amount of Students"
+subject-amount-per-week: "Number of school subjects per week"
+
+#days
+monday: "Monday"
+tuesday: "Tuesday"
+wednesday: "Wednesday"
+thursday: "Thursday"
+friday: "Friday"
+
+#Save
+saved.success: "Saved"
+saved.failed: "Failed to Save"
+
+#delete
+confirm.delete.title: "Confirm Deletion"
+confirm.delete.message: "Do you really want to delete {0}?"
+
+#file
+file: "File"
+files: "Files"
+
+tg.select.file: "Please select a .tg file"
+tg.import.file: "Import Timetable Generation"
+tg.export.file: "Export Timetable Generation"
+
+export.tg.success: "Successfully exported {0}!"
+export.tg.failed: "Failed to export {0}!"
+
+import.title: "Import"
+export.title: "Export"
+
+#frame
+#{0} = Project Name
+title.project: "Project Manager - {0}"
+title.timetable: "Timetable - {0}"
+title.empty: "Empty Project"
+
+#project options
+project.create: "Create new Project"
+project.delete: "Delete Project"
+project.load: "Load existing Project"
+project.loading: "Loading..."
+project.loaded: "Project loaded in {0}s"
+project.copy: "Copy Project"
+project.import: "Import Project"
+project.export: "Export Project"
+project.enter-name: "Enter project name:"
+project.warning.enter-name: "Please enter a project name!"
+project.exists: "A project with the name '{0}' already exists!"
+project.error.copy.title: "ERROR"
+project.error.copy.description: "An error occurred while copying the project!"
+
+#search
+result: "1 Result"
+results: "{0} Results"
+search: "Search"
+
+#panels
+panel: "Panel"
+room: "Room"
+rooms: "Rooms"
+class: "Class"
+classes: "Classes"
+teacher: "Teacher"
+teachers: "Teachers"
+course: "Course"
+courses: "Courses"
+student: "Student"
+students: "Students"
+timetable: "Timetable"
+timetables: "Timetables"
+data: "Data"
+option: "Option"
+options: "Options"
+generate: "Generate"
+generations: "Generations"
+
+select.all: "Select all"
+deselect.all: "Deselect all"
+invert.all: "Invert all"
+
+already.exists: "Already exists!"
+
+key.control: "CTRL"
+key.shift: "SHIFT"
+
+confirm.exit.title: "Confirm Exit"
+confirm.exit.description: "Are you sure you want to exit?"
+
+do.not.show.again: "Do not show again"
+
+heap.size: "Memory Usage"
+change.heap.size: "Change Memory Usage (in mb)"
+
+restart.required: "Restart required!"
+restart.now: "Restart Now"
+restart.not.now: "Not Now"
+restart.text: "Restart"
+
+#{0} = position of constructor
+position.constructor: "{0}. Constructor"
+export.constructor: "Constructor used for exporting"

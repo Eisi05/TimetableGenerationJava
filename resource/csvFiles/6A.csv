@@ -1,0 +1,27 @@
+U-Nr;Kl,Le;Wst;Lehrer;Fach;Klasse(n);Studenten;Stud. Kurs;Schülergruppe
+350;;3;;D;6A;0;;D_6A
+348;1, 2;1;;D1;6A;0;;D1_6A
+48;1, 2;1;;D2;6A;0;;D2_6A
+349;;3;;M;6A;0;;M_6A
+;;0;;M1;6A;0;;M1_6A
+;;0;;M2;6A;0;;M2_6A
+59;;2;;E;6A;0;;E_6A
+63;1, 2;1;;E1;6A;0;;E1_6A
+67;1, 2;1;;E2;6A;0;;E2_6A
+;;0;;NW1;6A;0;;NW1_6A
+;;0;;NW2;6A;0;;NW2_6A
+74;;2;;GL;6A;0;;GL_6A
+89;1, 2;1;;KL;6A;0;;KL_6A
+82;;2;;BK;6A;0;;BK_6A
+78;;2;;Mu;6A;0;;Mu_6A
+93;;1;;OL;6A;0;;OL_6A
+249;2, 3;2;;RelEv;6A,6B;0;;RelEv_6A6B
+;;0;;RelRk;6A,6B;0;;RelRk_6A6B
+;;0;;Eth;6A,6B;0;;Eth_6A6B
+86;1, 2;2;;SpoS;6A;0;;SpoS_6A
+159;4, 6;2;;WP_AL;6A,6B,6C,6D;0;;WP_AL_6A6B6C6D
+;;0;;WP_BK;6A,6B,6C,6D;0;;WP_BK_6A6B6C6D
+;;0;;WP_CUT;6A,6B,6C,6D;0;;WP_CUT_6A6B6C6D
+;;0;;WP_ÖK;6A,6B,6C,6D;0;;WP_ÖK_6A6B6C6D
+;;0;;WP_SP;6A,6B,6C,6D;0;;WP_SP_6A6B6C6D
+;;0;;F;6A,6B,6C,6D;0;;F_6A6B6C6D

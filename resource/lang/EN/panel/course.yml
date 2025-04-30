@@ -1,0 +1,19 @@
+create.title: "Create Course"
+select.students: "Select students"
+one-student-selected: "A least one Student or Class has to be selected!"
+name.exists: "Name already exists!"
+
+no.student: "There is no student with the id: {0}"
+no.teacher: "There is no teacher with the abbreviation: {0}"
+no.room: "There is no room with the number: {0}"
+
+multiple.entries: "There are multiple entries for this course!"
+
+import.report: "Could not import all Courses. (Click to view Report)"
+
+course.name: "Course Name"
+report.message: "Report Message"
+report.title: "Report"
+
+select.group: "Select Student Group"
+group.note: "It will only select the students, that are currently in the group!\nIf you add more students to that group, it will not automatically update!"

@@ -1,0 +1,29 @@
+help.debug.all: "Zeigt alle Debug-Meldungen an. (INFO, WARNUNG, FEHLER)"
+help.debug.warning: "Zeigt Debug-Meldungen mit Warnung oder höherer Priorität an. (WARNUNG, FEHLER)"
+help.debug.error: "Zeigt nur Fehler an!"
+help.debug.nothing: "Zeigt keine Debug-Meldungen an."
+
+help.factor.EFBusyStudents: "Bewertet den Anteil der Schüler, der unterrichtet werden würde."
+help.factor.EFCombinationSize: "Bewertet, wie viele Kurse sich in der aktuellen Kombination befinden."
+help.factor.EFLeftoverLessons: "Bewertet Kombinationen, die noch viele Lektionen lehren müssen.\nEs kommt also nicht vor, dass ein Fach am letzten Tag drei Unterrichtsstunden zu Ende hat."
+help.factor.EFLessonAmountError: "Bewertet die Differenz zwischen den Unterrichtseinheiten der Kurse."
+help.factor.EFOrderOfSubjects: "Bewertet Doppelstunden und Einzelstunden höher und rät von allem anderen ab."
+help.factor.EFResourceRarity: "Bewertet, wie häufig eine der Lehrer und der Raum in einem Kurs noch genutzt werden.\n 
+                              Falls sie häufig genutzt werden, aber im Moment frei sind, wird ein hoher Wert zurückgegeben."
+
+help.strategy.GTGSAllAtOnce: "Erstellt eine Klasse durch den Vergleich aller möglichen Kombinationen."
+help.strategy.GTGSOneAfterAnother: "Erstellt eine Klasse, indem ein Kurs ausgewählt und alle Kombinationen verglichen werden, die diesen Kurs enthalten."
+help.strategy.GTGSOneAfterAnotherAdvanced: "Zunächst wird der 'beste' Kurs basierend auf den Faktoren, die übergeben wurden
+                                            gesucht.\nDann werden alle Kurskombinationen, in denen dieser Kurs vorkommt an die
+                                            Sub-Strategie weitergegeben.\nDiese funktioniert, wie gewohnt."
+
+modify.button: "Stundenplan Zeiten ändern"
+title.debug: "Debug-Typ"
+title.CCEParameter: "Kursgruppen\nBewertungsparameter"
+title.sub.CCEParameter: "Unter-Kursgruppen\nBewertungsparameter"
+title.strategy: "Generierungsstrategie"
+title.sub.strategy: "Untergenerierungsstrategie"
+title.log: "Protokolliere mögliche Kombinationen"
+
+option.on: "An"
+option.off: "Aus"

@@ -1,0 +1,14 @@
+already-exists: "Stundenplan existiert bereits!"
+open-new-window: "In einem neuen Fenster öffnen"
+
+#{0} is the amount of files
+load.error.1: "1 Stundenplan konnte nicht geladen werden!\n(Zum Anzeigen klicken)"
+load.error.multiple: "{0} Stundenpläne konnten nicht geladen werden!\n(Zum Anzeigen klicken)"
+
+timetable.name: "Stundenplan Name"
+report.message: "Fehlermeldungsbericht"
+report.title: "Fehlermeldung"
+
+show.debug: "Debug-Protokoll"
+show.issues: "Probleme anzeigen"
+debug.title: "Debug-Protokoll von {0}"

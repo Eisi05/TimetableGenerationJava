@@ -1,0 +1,19 @@
+create.title: "Kurs erstellen"
+select.students: "Wähle Schüler aus"
+one-student-selected: "Es muss mindestens ein Schüler oder eine Klasse ausgewählt werden!"
+name.exists: "Name existiert bereits!"
+
+no.student: "Es gibt keinen Schüler mit der ID: {0}"
+no.teacher: "Es gibt keinen Lehrer mit der Abkürzung: {0}"
+no.room: "Es gibt keinen Raum mit der Nummer: {0}"
+
+multiple.entries: "Für diesen Kurs gibt es mehrere Einträge!"
+
+import.report: "Es konnten nicht alle Kurse importiert werden.\n(Klicke hier, um den Bericht zusehen)"
+
+course.name: "Kursname"
+report.message: "Fehlermeldungsbericht"
+report.title: "Fehlermeldung"
+
+select.group: "Wähle Schülergruppe aus"
+group.note: "Es werden nur die Schüler ausgewählt, die derzeit in der Gruppe sind!\nWenn dieser Gruppe weitere Schüler hinzufügt werden,\nwird es nicht automatisch aktualisiert!"

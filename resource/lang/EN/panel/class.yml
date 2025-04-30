@@ -1,0 +1,6 @@
+select-class-number: "Select class number"
+too-many-classes: "Too many classes!"
+class-name: "Class name"
+enter-class-name: "Enter the class name"
+
+create.failed: "Unable to create a new class!"

@@ -1,0 +1,26 @@
+move.students: "Move student to class"
+
+select.class: "Select class"
+no.class: "There is no class with the id: {0}"
+
+import.report: "Could not import all Students. (Click to view Report)"
+
+student.name: "Student Name"
+report.message: "Report Message"
+report.title: "Report"
+
+missing.class: "Please select a class!"
+
+group.title: "Student Groups"
+group.add: "Add to student group"
+group.remove: "Remove from student group"
+
+group.create: "Create Student Group"
+group.delete: "Delete Student Group"
+
+enter-name.title: "Enter Group Name"
+enter-name.empty: "Please enter a group name!"
+enter-name.exists: "Group name already exists!"
+
+double.click.select: "Double click to select"
+double.click.remove: "Double click to remove"

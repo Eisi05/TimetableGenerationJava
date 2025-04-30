@@ -1,0 +1,20 @@
+U-Nr;Kl,Le;Wst;Lehrer;Fach;Klasse(n);Studenten;Stud. Kurs;Schülergruppe
+2;;3;;D;5A;0;;D_5A
+7;1, 2;1;;D1;5A;0;;D1_5A
+10;1, 2;1;;D2;5A;0;;D2_5A
+13;;3;;E;5A;0;;E_5A
+;;0;;E1;5A;0;;E1_5A
+;;0;;E2;5A;0;;E2_5A
+17;;3;;M;5A;0;;M_5A
+20;1, 2;1;;M1;5A;0;;M1_5A
+22;1, 2;1;;M2;5A;0;;M2_5A
+34;;1;;BK;5A;0;;BK_5A
+30;;2;;Mu;5A;0;;Mu_5A
+28;;4;;NW;5A;0;;NW_5A
+44;;2;;OL;5A;0;;OL_5A
+24;;2;;GL;5A;0;;GL_5A
+247;1, 2;1;;KL;5A;0;;KL_5A
+40;;3;;SpoS;5A;0;;SpoS_5A
+453;2, 3;2;;RelEv;5A,5C;0;;RelEv_5A5C
+;;0;;RelRk;5A,5C;0;;RelRk_5A5C
+;;0;;Eth;5A,5C;0;;Eth_5A5C

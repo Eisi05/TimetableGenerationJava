@@ -1,0 +1,26 @@
+move.students: "Verschiebe Schüler in eine Klasse"
+
+select.class: "Wähle Klasse"
+no.class: "Es gibt keine Klasse mit der ID: {0}"
+
+import.report: "Es konnten nicht alle Schüler importiert werden.\n(Klicke hier, um den Bericht anzusehen)"
+
+student.name: "Schülername"
+report.message: "Fehlermeldungsbericht"
+report.title: "Fehlermeldung"
+
+missing.class: "Bitte wähle eine Klasse aus!"
+
+group.title: "Schülergruppe"
+group.add: "Zu Schülergruppe hinzufügen"
+group.remove: "Von Schülergruppe entfernen"
+
+group.create: "Schülergruppe erstellen"
+group.delete: "Schülergruppe löschen"
+
+enter-name.title: "Gib den Gruppennamen an"
+enter-name.empty: "Bitte gib einen Gruppennamen an!"
+enter-name.exists: "Gruppenname existiert bereits!"
+
+double.click.select: "Doppelklick um auszuwählen"
+double.click.remove: "Doppelklick um zu entfernen"

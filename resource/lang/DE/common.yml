@@ -1,0 +1,142 @@
+#common
+add: "Hinzufügen"
+create: "Erstellen"
+delete: "Löschen"
+manage: "Verwalten"
+edit: "Bearbeiten"
+clear: "Leeren"
+close: "Schließen"
+start: "Start"
+rename: "Umbenennen"
+copy: "Kopieren"
+pause: "Pausieren"
+resume: "Fortsetzen"
+cancel: "Abbrechen"
+undo: "Rückgängig"
+redo: "Wiederherstellen"
+save: "Speichern"
+overwrite: "Überschreiben"
+filter: "Filter"
+settings: "Einstellungen"
+language: "Sprache"
+optional: "Optional"
+value: "Wert"
+parameters: "Parameter"
+description: "Beschreibung"
+numbers-only: "Nur Nummer sind erlaubt!"
+enter-name: "Name eingeben"
+project.project: "Projekt"
+
+name: "Name"
+first-name: "Vorname"
+last-name: "Nachname"
+name-abbreviation: "Namensabkürzung"
+type: "Typ"
+grade: "Stufe"
+subject-type: "Schulfachtyp"
+subject: "Schulfach"
+subjects: "Schulfächer"
+amount-of-lessons: "Anzahl der Unterrichtsstunden"
+amount-of-students: "Anzahl der Schüler"
+subject-amount-per-week: "Anzahl des Schulfachs pro Woche"
+
+#days
+monday: "Montag"
+tuesday: "Dienstag"
+wednesday: "Mittwoch"
+thursday: "Donnerstag"
+friday: "Freitag"
+
+#Save
+saved.success: "Gespeichert"
+saved.failed: "Speichern fehlgeschlagen"
+
+#delete
+confirm.delete.title: "Löschung bestätigen"
+confirm.delete.message: "Möchtest du {0} wirklich löschen?"
+
+#file
+file: "Datei"
+files: "Dateien"
+
+select.file.tg: "Bitte wähle eine .tg-Datei aus"
+import.file.tg: "Timetable Generation importieren"
+export.file.tg: "Timetable Generation exportieren"
+
+export.tg.success: "{0} erfolgreich exportiert!"
+export.tg.failed: "{0} konnte nicht exportiert werden!"
+
+import.title: "Importieren"
+export.title: "Exportieren"
+
+#frame
+#{0} = Project Name
+title.project: "Projekt Manager - {0}"
+title.timetable: "Stundenplan - {0}"
+title.empty: "Leeres Projekt"
+
+#project options
+project.create: "Neues Projekt erstellen"
+project.delete: "Projekt löschen"
+project.load: "Vorhandenes Projekt laden"
+project.loading: "Lädt..."
+project.loaded: "Projekt wurde in {0}s geladen"
+project.copy: "Projekt kopieren"
+project.import: "Projekt importieren"
+project.export: "Projekt exportieren"
+project.enter-name: "Gib den Projektnamen ein:"
+project.warning.enter-name: "Bitte gib einen Projektnamen ein!"
+project.exists: "Ein Projekt mit dem Namen '{0}' existiert bereits!"
+project.error.copy.title: "FEHLER"
+project.error.copy.description: "Beim Kopieren des Projekts ist ein Fehler aufgetreten!"
+
+#search
+result: "1 Ergebnis"
+results: "{0} Ergebnisse"
+search: "Suche"
+
+#panels
+panel: "Panel"
+room: "Raum"
+rooms: "Räume"
+class: "Klasse"
+classes: "Klassen"
+teacher: "Lehrer"
+teachers: "Lehrer"
+course: "Kurs"
+courses: "Kurse"
+student: "Schüler"
+students: "Schüler"
+timetable: "Stundenplan"
+timetables: "Stundenpläne"
+data: "Datensatz"
+option: "Option"
+options: "Optionen"
+generate: "Generieren"
+generations: "Generationen"
+
+select.all: "Alle auswählen"
+deselect.all: "Alle abwählen"
+invert.all: "Alle invertieren"
+
+already.exists: "Existiert bereits!"
+
+key.control: "STRG"
+key.shift: "SHIFT"
+
+confirm.exit.title: "Beenden bestätigen"
+confirm.exit.description: "Möchtest du die Anwendung wirklich beenden?"
+
+do.not.show.again: "Nicht erneut anzeigen"
+
+heap.size: "Speichernutzung"
+change.heap.size: "Speichernutzung ändern (in MB)"
+
+restart.required: "Neustart erforderlich!"
+restart.now: "Jetzt neustarten"
+restart.not.now: "Nicht jetzt"
+restart.text: "Neustart"
+
+#{0} = position of constructor
+position.constructor: "{0}. Konstruktor"
+export.constructor: "Konstruktor, der zum Exportieren verwendet wird"

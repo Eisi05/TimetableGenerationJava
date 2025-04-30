@@ -1,0 +1,23 @@
+#CSV Operations
+exception.less: "Die CSV-Datei enthält nicht genügend Spalten!\nBenötigt: {0}\nVorhanden {1}"
+exception.many: "Die CSV-Datei hat zu viele Spalten!\nBenötigt: {0}\nVorhanden: {1}"
+exception.wrong: "Die CSV-Datei hat einen falschen Typ!\nSpalte: {0}\nBenötigt: {1}\nVorhanden: {2}"
+exception.error: "Beim {0} von {1} ist ein Fehler aufgetreten"
+
+file.invalid: "Ungültige Datei"
+file.select: "Bitte wähle eine CSV-Datei aus"
+
+import.action: "CSV importieren"
+importing: "importieren"
+import.failed: "Import ist fehlgeschlagen"
+import.success: "Erfolgreich importiert"
+
+export.action: "CSV exportieren"
+exporting: "exportieren"
+export.failed: "Export ist fehlgeschlagen"
+export.success: "Erfolgreich exportiert"
+
+select.constructor: "Wähle einen Konstruktor"
+
+format.title: "CSV-Format"
+format.description: "Zeigt die verfügbaren Formate für die CSV-Datei an"
